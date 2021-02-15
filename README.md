@@ -1,4 +1,4 @@
-# Self-Patch: Self-Patch: Beyond Patch Tuesday for Containerized Applications  
+# Self-Patch: Beyond Patch Tuesday for Containerized Applications  
 This repository contains details of our [paper](https://ieeexplore.ieee.org/abstract/document/9196230). If you find this work useful in your research, please consider citing:
 
 ```
